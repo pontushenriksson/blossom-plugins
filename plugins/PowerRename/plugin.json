@@ -1,0 +1,9 @@
+{
+    "name": "EXAMPLE CONTENTS - PowerRename",
+    "version": "1.0.0",
+    "description": "Helps rename files based on a style guide.",
+    "dependencies": ["NeuroSort"],
+    "required_blossom_version": ">=1.0.0",
+    "author": "Pontus Henriksson"
+}
+  
